@@ -31,7 +31,6 @@ admin
 
 # license MIT 
 
-
 GNU General Public License
 [GPLv3 Logo]
 
